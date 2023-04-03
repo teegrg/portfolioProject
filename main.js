@@ -45,28 +45,7 @@ let promise = fetch (URL)
             galleryfill.append(galleryPic)
         });
     }
-//  let galleryContainer = document.querySelector("#gallery-container")
 
 
-//  let addimage = () => {
-//      let art = document.createElement("li")
-//      art.className = "artist"
-     
-     
-//      let galleryimage = document.createElement("img")
-//      image.src = `${config}` + "/" + `${imageId}`+ "/full/843,/0/default.jpg"
-//      let header = document.createElement("h3")
-     
- 
-//      header.textContent = artist.name
-     
-//      art.append(galleryimage,header)
-     
-//      galleryContainer.append(art)
-    
-//  }
- 
-//  URL.forEach(element => {
-//      addimage(element)
-//  });
+
 
